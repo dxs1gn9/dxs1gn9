@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dxs1gn9
 - 👀 I’m interested in proggramming, chess
 - 🌱 I’m currently learning python
-- 📫 How to reach me - you cannot, i dont like people, if you want email me here- srijaanmandal@gmil.com
+- 📫 How to reach me - you cannot, i dont like people, if you want email me here- srijaanmandal@gmail.com
 - 😄 Pronouns: im straight, i dont care this shit
 
 
