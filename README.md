@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @dxs1gn9
-- 👀 I’m interested in proggramming, chess
-- 🌱 I’m currently learning python
-- 📫 How to reach me - you cannot, i dont like people, if you want email me here- srijaanmandal@gmail.com
-- 😄 Pronouns: im straight, i dont care this shit
+# 👋 Hey, I’m Cleo Lazren (aka Cleoplasera)
 
+I’m a 14-year-old indie dev from India building hardcore tools, from scratch, without funding or a full rig—yet.
 
-<!---
-dxs1gn9/dxs1gn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Currently Building
+- 🚀 **ClickToGrow** — an AI-powered micro-startup engine for SMBs in India  
+- 🔐 **GoonerLocker** — a decentralized vault & identity toolkit (Termux-based)
+
+## 🎯 Goals
+- Ship my first open tools in 2025  
+- Build with whatever I can find — or get  
+- Inspire kids who build with zero
+
+## 🛠️ Tech Stack
+- Bash / Termux / Python / Shell scripting  
+- Minimal Linux, no fluff. Just power.
+
+---
+
+📬 DM-friendly. No calls. Just code.  
+📷 IG: [@cleo.plazera](https://instagram.com/cleo.plazera)  
+💬 Mail: dm for access
