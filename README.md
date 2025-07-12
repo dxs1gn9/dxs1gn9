@@ -17,6 +17,6 @@ I’m a 14-year-old indie dev from India building hardcore tools, from scratch, 
 
 ---
 
-📬 DM-friendly. No calls. Just code.  
+📬 DM-Unfriendly. No calls. Just code.  
 📷 IG: [@cleo.plazera](https://instagram.com/cleo.plazera)  
-💬 Mail: dm for access
+💬 Mail: cleolazren@gmail.com
